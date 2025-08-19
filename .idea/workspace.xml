@@ -4,18 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3879f51e-f24f-470f-9da5-86051fc4b941" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Code/game.py" afterDir="false" />
+    <list default="true" id="3879f51e-f24f-470f-9da5-86051fc4b941" name="Changes" comment="Adding classes generated from StarUML">
+      <change afterPath="$PROJECT_DIR$/asset/Enemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Enemy1Shot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Enemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Enemy2Shot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level1Bg6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level2Bg0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level2Bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level2Bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level2Bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Level2Bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Menu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/MenuBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Player1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Player1Shot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Player2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Player2Shot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Score.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/ScoreBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/background.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/background.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/entityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/entityFactory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/background.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/entityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +81,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Background.executor": "Run",
+    "Python.Enemy.executor": "Run",
+    "Python.Entity.executor": "Run",
+    "Python.Game.executor": "Run",
+    "Python.Level.executor": "Run",
+    "Python.Menu.executor": "Run",
     "Python.game.executor": "Run",
     "Python.main.executor": "Run",
     "Python.menu.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/TONY/Jogo/MoutainShooter/Code",
+    "last_opened_file_path": "C:/Users/TONY/Jogo/MoutainShooter/asset",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TONY\Jogo\MoutainShooter\asset" />
+      <recent name="C:\Users\TONY\Jogo\MoutainShooter\Code" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,16 +124,37 @@
       <option name="presentableId" value="Default" />
       <updated>1755462284379</updated>
       <workItem from="1755462286900" duration="2137000" />
-      <workItem from="1755565582122" duration="3547000" />
+      <workItem from="1755565582122" duration="3923000" />
+      <workItem from="1755571177584" duration="7373000" />
+      <workItem from="1755608377732" duration="1987000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding classes generated from StarUML">
+      <option name="closed" value="true" />
+      <created>1755570985387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755570985387</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding classes generated from StarUML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding classes generated from StarUML" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MoutainShooter$game.coverage" NAME="game Coverage Results" MODIFIED="1755462868877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
-    <SUITE FILE_PATH="coverage/MoutainShooter$menu.coverage" NAME="menu Coverage Results" MODIFIED="1755565620747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
-    <SUITE FILE_PATH="coverage/MoutainShooter$main.coverage" NAME="main Coverage Results" MODIFIED="1755565985794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MoutainShooter$Level.coverage" NAME="Level Coverage Results" MODIFIED="1755608547994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/MoutainShooter$Background.coverage" NAME="Background Coverage Results" MODIFIED="1755608543466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/MoutainShooter$game.coverage" NAME="game Coverage Results" MODIFIED="1755575478831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/MoutainShooter$Entity.coverage" NAME="Entity Coverage Results" MODIFIED="1755608558960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/MoutainShooter$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1755609436388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/MoutainShooter$menu.coverage" NAME="menu Coverage Results" MODIFIED="1755576615008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/MoutainShooter$Game.coverage" NAME="Game Coverage Results" MODIFIED="1755609969818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/MoutainShooter$Enemy.coverage" NAME="Enemy Coverage Results" MODIFIED="1755608555472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/MoutainShooter$main.coverage" NAME="main Coverage Results" MODIFIED="1755609973764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
